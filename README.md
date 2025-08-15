@@ -4,7 +4,7 @@ This project predicts house sale prices using machine learning. It is based on a
 
 ## 📂 Project Structure
 
-- `notebook.ipynb` — Main Jupyter Notebook containing data cleaning, EDA, feature engineering, and model training
+- `house_price_predict.ipynb` — Main Jupyter Notebook containing data cleaning, EDA, feature engineering, and model training
 - `output.csv` — Predicted house prices for the test dataset
 - `requirements.txt` — Python dependencies
 - `data/` — Folder containing datasets (ignored in `.gitignore`)
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ### Open the Jupyter Notebook
 ```bash
-jupyter notebook
+jupyter house_price_predict
 ```
 
 Then run all cells to reproduce the model training and prediction.
@@ -56,7 +56,6 @@ Then run all cells to reproduce the model training and prediction.
 
 ## 📌 Notes
 
-- Dataset files are ignored in `.gitignore` for size reasons
 - Predictions are stored in `output.csv`
 
 ## 👨‍💻 Author
