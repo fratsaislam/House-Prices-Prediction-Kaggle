@@ -13,7 +13,7 @@ This project predicts house sale prices using machine learning. It is based on a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/fratsaislam/House-Prices-Prediction-Kaggle.git
 cd house-price-prediction
 ```
 
